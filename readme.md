@@ -3,7 +3,6 @@
 
 - C#
 - .NET
-- System.Threading
 
 ## Estrutura do projeto
 
