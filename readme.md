@@ -13,7 +13,7 @@
 
 ## Requisitos
 
-É necessário ter o .NET SDK instalado na máquina.
+É necessário ter o .NET SDK 7.0 instalado na máquina.
 
 ## Compilação
 
