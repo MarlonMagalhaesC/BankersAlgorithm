@@ -1,8 +1,4 @@
 # BankersAlgorithm
-## Descrição
-
-Este projeto simula o Algoritmo do Banqueiro, utilizado para evitar deadlocks no gerenciamento de recursos. O sistema possui múltiplos clientes executados por threads, que solicitam e liberam recursos concorrentemente. Cada solicitação é analisada e só é aprovada se mantiver o sistema em estado seguro.
-
 ## Tecnologias utilizadas
 
 - C#
@@ -21,7 +17,16 @@ Este projeto simula o Algoritmo do Banqueiro, utilizado para evitar deadlocks no
 
 ## Compilação
 
-No terminal, dentro da pasta do projeto, execute:
+No terminal, dentro da pasta do projeto (onde fica BankersAlgorithm.csproj), execute:
 
 ```bash
 dotnet build
+
+## Execução 
+
+Para executar o programa, informe na linha de comando a quantidade inicial de cada tipo de recurso disponível no sistema.
+
+Exemplo:
+
+```bash
+dotnet run -- 10 5 7
