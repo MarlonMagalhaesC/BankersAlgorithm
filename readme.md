@@ -21,6 +21,7 @@ No terminal, dentro da pasta do projeto (onde fica BankersAlgorithm.csproj), exe
 
 ```bash
 dotnet build
+```
 
 ## Execução 
 
@@ -30,3 +31,4 @@ Exemplo:
 
 ```bash
 dotnet run -- 10 5 7
+```
