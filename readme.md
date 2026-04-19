@@ -25,7 +25,7 @@ dotnet build
 
 ## Execução 
 
-Para executar o programa, informe na linha de comando a quantidade inicial de cada tipo de recurso disponível no sistema.
+Ainda no mesmo caminho que na compilação, para executar o programa, informe na linha de comando a quantidade inicial de cada tipo de recurso disponível no sistema.
 
 Exemplo:
 
